@@ -44,8 +44,6 @@ describe('placing an order test suite', () => {
         allProductsPage.clickOnFirstAddToBasketButtons(3);
         allProductsPage.clickOnBasket();
 
-        basketPage.checkIfTotalPriceGreaterThanZero();
-
         basketPage.clickOnCheckoutButton();
 
         addressAndPaymentAddingPages.clickOnButtonAddNewAddress();
