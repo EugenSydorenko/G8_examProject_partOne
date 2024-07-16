@@ -1,0 +1,17 @@
+{
+  "baseEmail": "eugenSydorenko@autotest.com",
+  "modifiedEmail": "eugenSydorenko@autotest.com",
+  "password": "Password",
+  "securityAnswer": "12.07.2024",
+  "country": "Ukraine",
+  "phoneNumber": "1234567890",
+  "zipCode": "1210",
+  "address": "Main street",
+  "city": "Kyiv",
+  "fullName": "Eugene Sydorenko",
+  "cardNumber": "1234567890123456",
+  "month": "4",
+  "year": "2082",
+  "comment": "this is comment left by user",
+  "sliderPosition": "3"
+}
